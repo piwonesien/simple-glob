@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "glob": "~7.1.2",
-    "grunt": "^1.0.2",
+    "grunt": "^1.0.3",
     "lodash": "~4.17.5",
     "minimatch": "~3.0.4"
   },
